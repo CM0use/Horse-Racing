@@ -1,7 +1,8 @@
 /**
- ** This file is part of https://github.com/CM0use/Horse-Racing
- ** Copyright 2023 CM0use <dilanuzcs@gmail.com>.
- **
+ ** This file is part of Horse-Racing project
+ ** Copyright 2023 CM0use dilanuzcs@gmail.com
+ ** URL: https://github.com/CM0use/Horse-Racing
+ ** 
  ** This program is free software: you can redistribute it and/or modify
  ** it under the terms of the GNU General Public License as published by
  ** the Free Software Foundation, either version 3 of the License, or
@@ -24,7 +25,7 @@
 # define ANIMALS      (9)
 # define ICON         ('A')
 # define ICON_FLOOR   ('_')
-# define TIME         (0.369s)
+# define TIME         (0.123s)
 # define MIN          (0)
 # define MAX          (70)
 
